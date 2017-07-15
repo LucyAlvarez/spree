@@ -1,0 +1,34 @@
+#spree-header{
+	background-color: #c7254e;
+}
+
+
+#default{
+	color: pink;
+	font-family: "Berlin Sans FB";
+	background-color: gray;
+}
+.breadcrumb{
+	background-color: #c7254e;
+}
+
+#home-page{
+	color: #800000;
+	font-family: "Berlin Sans FB";
+	background-color: white;
+
+}
+.panel-body{
+	background-color: #c7254e;
+}
+.panel-footer{
+	background-color: grey;
+}
+.a.list-group-item{
+	background-color: #2E2F30;
+	color: black;
+}
+.list-group-item{
+	background-color: #F7F7F7;
+	color: black;
+}
