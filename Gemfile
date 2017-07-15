@@ -11,7 +11,8 @@ gem 'rails', '~> 5.1.2'
 
 gem 'paperclip', '~> 5.1'
 gem 'rake', '~> 12.0'
-
+gem 'rails_12factor', '~> 0.0.3'
+gem 'cetusql', '~> 0.0.1'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
